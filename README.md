@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # TikTok Profile Analyzer 🎵
 
 A Python-based CLI tool that analyzes TikTok profiles and provides detailed information in a beautifully formatted output.
@@ -88,6 +87,3 @@ This project is licensed under the MIT License - see the LICENSE attached for de
 
 📚 FREE Programming eBooks: [Access our Open Library](https://j77cyber.dev/open-library/library.html)
 =======
-# tiktok-profile-analyzer
-A Python-based CLI tool that analyzes TikTok profiles and provides detailed information in a beautifully formatted output.
->>>>>>> f8181d6cc9c59eae1ff60ca10b036c4d12c002f1
